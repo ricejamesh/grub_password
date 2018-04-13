@@ -1,6 +1,6 @@
 #!/bin/sh
 
-# grub_secure
+# grub2_password.sh
 #
 # This file will allow the grub2 interface be secured with a 
 # username and password.  The purpose of this security measure
